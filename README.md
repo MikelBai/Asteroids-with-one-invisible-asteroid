@@ -1,4 +1,4 @@
-# asteroids-in-java-2015
+# asteroids
 Asteroids using the Processing library.
 Pretty sure you gotta install Processing for this to work.
 
